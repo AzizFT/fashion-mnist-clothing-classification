@@ -74,6 +74,6 @@ Fashion-MNIST was introduced by Han Xiao, Kashif Rasul, and Roland Vollgraf. The
 
 ## Authors
 
-Abdulaziz Altwaijri
-Abdulmalik Al Alshaikh
+- Abdulaziz Altwaijri
+- Abdulmalik Al Alshaikh
 
