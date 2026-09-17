@@ -1,0 +1,4 @@
+split,number_of_images,purpose
+Training,48000,Model parameter learning
+Validation,12000,Model selection and overfitting monitoring
+Test,10000,Final unbiased evaluation only

@@ -1,0 +1,11 @@
+label_id,class_name,original_train,official_test,total
+0,T-shirt/top,6000,1000,7000
+1,Trouser,6000,1000,7000
+2,Pullover,6000,1000,7000
+3,Dress,6000,1000,7000
+4,Coat,6000,1000,7000
+5,Sandal,6000,1000,7000
+6,Shirt,6000,1000,7000
+7,Sneaker,6000,1000,7000
+8,Bag,6000,1000,7000
+9,Ankle boot,6000,1000,7000
